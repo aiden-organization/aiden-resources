@@ -28,6 +28,7 @@
 | [26.06.12] 옵시디언 시작하기 | 옵시디언 | [바로가기 →](guides/obsidian.md) |
 | [26.06.19] 나만의 LLM 위키 만들기 (두 번째 뇌) | 옵시디언 · 헤르메스 에이전트 | [바로가기 →](guides/llm-wiki-obsidian-hermes.md) |
 | [26.06.26] Graphify로 내 위키에 자료 빠르게 쌓기 | 옵시디언 · 헤르메스 에이전트 · Graphify | [바로가기 →](guides/llm-wiki-graphify.md) |
+| [26.07.05] NotebookLM 시작하기 | NotebookLM | [바로가기 →](guides/notebooklm.md) |
 | [26.07.12] Obsidian+NotebookLM으로 세컨트 브레인 만들기 | 옵시디언 · NotebookLM | [바로가기 →](guides/obsidian-notebooklm.md) |
 | [26.07.19] 클로드 모델과 작업량 선택 기준 | 클로드 코드 | [바로가기 →](guides/claude-model-effort.md) |
 | [26.07.24] 스크롤 월드 스킬로 3D 웹사이트 만들기 | 클로드 코드 | [바로가기 →](guides/scroll-world.md) |
