@@ -33,6 +33,7 @@
 | [26.07.19] 클로드 모델과 작업량 선택 기준 | 클로드 코드 | [바로가기 →](guides/claude-model-effort.md) |
 | [26.07.24] 스크롤 월드 스킬로 3D 웹사이트 만들기 | 클로드 코드 | [바로가기 →](guides/scroll-world.md) |
 | [26.08.06] html-ppt 스킬로 고퀄리티 발표자료 만들기 | 클로드 코드 | [바로가기 →](guides/html-ppt.md) |
+| [26.08.14] ChatGPT Work 완전 정리 — Chat과 뭐가 다르고, 언제 어떻게 쓰나 | ChatGPT | [바로가기 →](guides/chatgpt-work.md) |
 <!-- 새 영상이 올라오면 위 표에 한 줄씩 추가하세요.
 | 영상 주제 | 사용 도구 | [바로가기 →](guides/파일명.md) |
 -->
