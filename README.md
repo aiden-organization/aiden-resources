@@ -35,6 +35,7 @@
 | [26.08.06] html-ppt 스킬로 고퀄리티 발표자료 만들기 | 클로드 코드 | [바로가기 →](guides/html-ppt.md) |
 | [26.08.14] ChatGPT Work 완전 정리 | ChatGPT | [바로가기 →](guides/chatgpt-work.md) |
 | [26.08.21] 헤르메스 에이전트 봇 모드로 AI 팀 만들기 | 헤르메스 에이전트 | [바로가기 →](guides/hermes-bot-mode.md) |
+| [26.08.29] 클로드 코드의 세션을 효율적으로 운영하는 방법 | 클로드 코드 | [바로가기 →](guides/claude-session.md) |
 <!-- 새 영상이 올라오면 위 표에 한 줄씩 추가하세요.
 | 영상 주제 | 사용 도구 | [바로가기 →](guides/파일명.md) |
 -->
