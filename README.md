@@ -38,6 +38,7 @@
 | [26.08.29] 클로드 코드의 세션을 효율적으로 운영하는 방법 | 클로드 코드 | [바로가기 →](guides/claude-session.md) |
 | [26.09.05] Aside 브라우저로 업무를 AI에게 맡기는 방법 | Aside 브라우저 | [바로가기 →](guides/aside.md) |
 | [26.09.18] GPT-6 Astra, AGI인가? | GhatGPT | [바로가기 →](guides/astra.md) |
+| [26.09.25] 클로드 코드 모델·작업량 고르기부터 토큰 아끼는 세션 운영까지 | 클로드 코드 | [바로가기 →](guides/claude-integration.md) |
 <!-- 새 영상이 올라오면 위 표에 한 줄씩 추가하세요.
 | 영상 주제 | 사용 도구 | [바로가기 →](guides/파일명.md) |
 -->
